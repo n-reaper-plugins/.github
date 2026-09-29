@@ -1,6 +1,6 @@
 ## _n_plugins
 
-[https://github.com/n-reaper-plugins/prototype-sequence](PrototypeSequence)
+[PrototypeSequence](https://github.com/n-reaper-plugins/prototype-sequence)
 
-[https://github.com/n-reaper-plugins/granular-generator](GranularGenerator)
+[GranularGenerator](https://github.com/n-reaper-plugins/granular-generator)
 
