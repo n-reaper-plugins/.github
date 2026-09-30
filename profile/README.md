@@ -6,3 +6,4 @@
 
 [GainStageEq](https://github.com/n-reaper-plugins/gain-stage-eq)
 
+[Gingersnap REPL](https://github.com/n-reaper-plugins/gingersnap-repl)
