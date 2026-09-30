@@ -4,3 +4,5 @@
 
 [GranularGenerator](https://github.com/n-reaper-plugins/granular-generator)
 
+[GainStageEq](https://github.com/n-reaper-plugins/gain-stage-eq)
+
