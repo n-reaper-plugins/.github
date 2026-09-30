@@ -1,11 +1,15 @@
-## _n_plugins
+# \_n_plugins
 
-### Installation
+Pligins/ scripts for REAPER
+
+## Installation
 
 Copy this link to ReaPack
 ```text
 https://raw.githubusercontent.com/n-reaper-plugins/reapack-index/main/index.xml
 ```
+
+## Selected projects
 
 [PrototypeSequence](https://github.com/n-reaper-plugins/prototype-sequence)
 
@@ -16,3 +20,6 @@ https://raw.githubusercontent.com/n-reaper-plugins/reapack-index/main/index.xml
 [Gingersnap REPL](https://github.com/n-reaper-plugins/gingersnap-repl)
 
 [NestedProjects](https://github.com/n-reaper-plugins/nested-projects)
+
+---
+**[☕ Support us on Ko-fi](https://ko-fi.com/njazz)**
