@@ -14,3 +14,5 @@ https://raw.githubusercontent.com/n-reaper-plugins/reapack-index/main/index.xml
 [GainStageEq](https://github.com/n-reaper-plugins/gain-stage-eq)
 
 [Gingersnap REPL](https://github.com/n-reaper-plugins/gingersnap-repl)
+
+[NestedProjects](https://github.com/n-reaper-plugins/nested-projects)
