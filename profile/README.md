@@ -21,5 +21,7 @@ https://raw.githubusercontent.com/n-reaper-plugins/reapack-index/main/index.xml
 
 [NestedProjects](https://github.com/n-reaper-plugins/nested-projects)
 
+[AliasTrack](https://github.com/n-reaper-plugins/alias-track)
+
 ---
 **[☕ Support us on Ko-fi](https://ko-fi.com/njazz)**
