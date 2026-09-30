@@ -1,5 +1,12 @@
 ## _n_plugins
 
+### Installation
+
+Copy this link to ReaPack
+```text
+https://raw.githubusercontent.com/n-reaper-plugins/reapack-index/main/index.xml
+```
+
 [PrototypeSequence](https://github.com/n-reaper-plugins/prototype-sequence)
 
 [GranularGenerator](https://github.com/n-reaper-plugins/granular-generator)
